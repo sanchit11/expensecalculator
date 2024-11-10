@@ -1,7 +1,7 @@
 import React, {useState, state} from 'react';
 import Table from 'react-bootstrap/Table';
 import { useSelector, useDispatch } from 'react-redux';
-import { setMinusTotal, setTotal } from '../reduxfiles/action';
+//import { setMinusTotal, setTotal } from '../reduxfiles/action';
 
 function Form1() {
 

@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import React , { useState, props, state }from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { setMinusTotal, setTotal } from '../reduxfiles/action';
+//import { setMinusTotal, setTotal } from '../reduxfiles/action';
 
 
 function Form2() {
